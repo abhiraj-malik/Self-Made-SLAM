@@ -21,4 +21,4 @@ Lidar Scan Map
 
 
 <img width="519" height="432" alt="Screenshot 2024-12-01 163030" src="https://github.com/user-attachments/assets/e22789a3-746a-4344-acfc-14f8941e6e91" />
-Point cloud map when your rover moves usiing odom data
+Point cloud map when your rover moves using odom data from dc motor encoders
